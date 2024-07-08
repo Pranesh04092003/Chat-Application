@@ -25,7 +25,9 @@ This project is a chat application where students can connect with college proje
 - **database/**: MongoDB setup and schema definitions.
 
 ## Challenges Faced
-Setting up the backend was straightforward for me. I tested all the API endpoints using Postman to ensure they worked correctly. After that, I developed the frontend using Next.js. The main struggle I faced was in the ChatArea page, where the real-time communication between students and experts took place. There were some initial issues, but I was able to resolve them.
+- Real-time communication setup with Socket.io.
+- Ensuring secure storage of user data with encryption.
+- Handling unique chat rooms for each student-expert pair.
 
 I hosted the application on Vercel. Users need to sign up first, and by default, they are assigned the student role. Experts also start with the student role when they sign up, but the admin can change their role to experts. Students can select from available experts and send them private messages. Experts can see messages from students and reply to them, enabling real-time chat. The application uses Socket.io for real-time communication, and all sent messages have timestamps.
 
