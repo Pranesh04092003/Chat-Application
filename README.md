@@ -17,7 +17,7 @@ This project is a chat application where students can connect with college proje
 - Chat history stored in MongoDB with retrieval of the last 10 messages upon entering the chat room.
 
 ## Demonstration Video
-![Demonstration Video](link-to-your-video-file)
+![Demonstration Video](https://github.com/Pranesh04092003/Chat-Application/blob/main/Demo%20Video.mp4)
 
 ## Code Structure
 - **frontend/**: Contains the Next.js frontend code.
