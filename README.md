@@ -1,4 +1,4 @@
-# Chat Application
+# Student-Expert Chat Platform
 
 ## Project Overview
 This project is a chat application where students can connect with college project experts in private chat rooms. It facilitates real-time communication between students and experts, providing a platform for students to seek guidance and advice on their projects.
@@ -14,7 +14,7 @@ This project is a chat application where students can connect with college proje
 - Students can request to connect with an expert.
 - Private chat rooms for each student-expert pair.
 - Real-time messaging with timestamps and usernames.
-- Chat history stored in MongoDB and retrieval of the last 10 messages upon entering the chat room.
+- Chat history stored in MongoDB with retrieval of the last 10 messages upon entering the chat room.
 
 ## Demonstration Video
 ![Demonstration Video](link-to-your-video-file)
@@ -59,4 +59,4 @@ I hosted the application on Vercel. Users need to sign up first, and by default,
 5. Access the application via the provided URL (typically `http://localhost:3000`).
 
 ## Contact
-If you have any questions, feel free to reach out to **[praneshvijay2003@gmail.com](mailto:praneshvijay2003@gmail.com)** .
+If you have any questions, feel free to reach out to **[praneshvijay2003@gmail.com](mailto:praneshvijay2003@gmail.com)**.
