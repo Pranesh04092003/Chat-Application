@@ -19,6 +19,25 @@ This project is a chat application where students can connect with college proje
 ## Demonstration Video
 [![Demonstration Video](https://img.youtube.com/vi/nPf0CBR4ws0/0.jpg)](https://www.youtube.com/watch?v=nPf0CBR4ws0)
 
+## Live Website
+You can access the live application [here](https://chat-app-client-orpin.vercel.app/).
+
+## Testing Credentials
+Student Login:
+```bash
+Username: user1
+Password: 2003
+```
+Expert Login:
+```bash
+Username: expert1
+Password: 2003
+```
+Admin Login:
+```bash
+Username: admin
+Password: admin
+```
 ## Code Structure
 - **frontend/**: Contains the Next.js frontend code.
 - **backend/**: Contains the Node.js backend code.
@@ -58,21 +77,5 @@ I hosted the application on Vercel. Users need to sign up first, and by default,
     ```
 5. Access the application via the provided URL (typically `http://localhost:3000`).
 
-## Testing Credentials
-Student Login:
-```bash
-Username: user1
-Password: 2003
-```
-Expert Login:
-```bash
-Username: expert1
-Password: 2003
-```
-Admin Login:
-```bash
-Username: admin
-Password: admin
-```
 ## Contact
 If you have any questions, feel free to reach out to **[praneshvijay2003@gmail.com](mailto:praneshvijay2003@gmail.com)**.
