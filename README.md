@@ -17,7 +17,7 @@ This project is a chat application where students can connect with college proje
 - Chat history stored in MongoDB with retrieval of the last 10 messages upon entering the chat room.
 
 ## Demonstration Video
-[![Demonstration Video](https://img.youtube.com/vi/nPf0CBR4ws0/0.jpg)](https://www.youtube.com/watch?v=nPf0CBR4ws0)
+[![Demonstration Video](https://img.youtube.com/vi/CGDehx7-GLQ/0.jpg)](https://youtu.be/CGDehx7-GLQ?si=u4K5s87qj7jCUy44)
 
 ## Live Website
 You can access the live application [here](https://chat-app-client-orpin.vercel.app/).
