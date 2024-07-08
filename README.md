@@ -59,9 +59,11 @@ I hosted the application on Vercel. Users need to sign up first, and by default,
 5. Access the application via the provided URL (typically `http://localhost:3000`).
 
 ## Testing Credentials
-Student Login:```bash
+Student Login:
+```bash
 Username: user1
-Password: 2003 ```
+Password: 2003
+```
 
 Expert Login:
 Username: expert1
