@@ -64,14 +64,15 @@ Student Login:
 Username: user1
 Password: 2003
 ```
-
 Expert Login:
+```bash
 Username: expert1
 Password: 2003
-
+```
 Admin Login:
+```bash
 Username: admin
 Password: admin
-
+```
 ## Contact
 If you have any questions, feel free to reach out to **[praneshvijay2003@gmail.com](mailto:praneshvijay2003@gmail.com)**.
